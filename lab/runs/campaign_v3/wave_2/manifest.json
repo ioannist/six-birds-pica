@@ -1,0 +1,6372 @@
+[
+  {
+    "exp": "EXP-F1",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-F1",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-F1",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-F1",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-F1",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-F1",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-F1",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-F1",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-F1",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-F1",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A1_P1-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A2_P1-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A3_P1-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A4_P1-P4",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A5_P1-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A6_P1-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A7_P2-P1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A8_P2-P2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A9_P2-P3",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_P2-P5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A12_P2-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-100",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_P3-P6",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "mixer",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_rm",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "combo_structure",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-101",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action_safe",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A18_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.1",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_0.5",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_1.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_3.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "boost_4.0",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A3_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A14_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_A21_A19",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-106",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_pkg",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "baseline",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A13_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A24_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A25_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "sbrc",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_action",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "full_all",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A11_A22",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_A24",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "chain_SBRC",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "A19_only",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-107",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "config": "P1_row_A13",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-109",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 0,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 1,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 2,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 3,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 4,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 5,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 6,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 7,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 8,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-110",
+    "seed": 9,
+    "scale": 256,
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 0,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 1,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 2,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 3,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 4,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 5,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 6,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 7,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 8,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "empty",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "baseline",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "full_action",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "A14_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "A16_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "A17_only",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "gen3_A13_A14_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "gen4_core",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "loo_A13",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "loo_A14",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "loo_A18",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "loo_A19",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "fa_no_P1row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "fa_no_P2mod",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  },
+  {
+    "exp": "EXP-112",
+    "seed": 9,
+    "scale": 256,
+    "config": "fa_no_P3row",
+    "stage": "wave_2",
+    "env": {
+      "SIX_BIRDS_AUDIT_RICH": "1"
+    }
+  }
+]
