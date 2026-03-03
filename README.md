@@ -6,7 +6,7 @@ This repository contains the **ladder/scaling instantiation** for the paper:
 >
 > Archived at: TBD
 >
-> DOI: TBD
+> DOI: 10.5281/zenodo.18838994
 
 This project studies emergence from a minimal stochastic substrate using manifest-controlled audits across four sizes, with induced macro kernels, multiscale rung scans, and ablations over a six-primitive closure interaction algebra. The current paper dataset union contains 2307 runs: an exhaustive suite for \(n\in\{32,64,128\}\) and a selected scaling suite at \(n=256\).
 
