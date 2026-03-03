@@ -5,6 +5,9 @@
 .DS_Store
 __pycache__/
 *.pyc
-six-birds-ladder_snapshot_v99.zip
+six-birds-ladder_snapshot_v*.zip
+paper/submission/arxiv_source.tar.gz
+paper/submission/arxiv_source/
+paper/submission/arxiv_source_manifest.txt
 research/
 skills/

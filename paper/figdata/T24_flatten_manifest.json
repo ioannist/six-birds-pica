@@ -5,122 +5,122 @@
     {
       "exists": true,
       "resolved_path": "paper/fig/F1_pipeline.pdf",
-      "token": "F1_pipeline"
+      "token": "fig/F1_pipeline.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F2_PICA_grid.pdf",
-      "token": "F2_PICA_grid"
+      "token": "fig/F2_PICA_grid.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F3a_n32.pdf",
-      "token": "F3a_n32"
+      "token": "fig/F3a_n32.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F3a_n64.pdf",
-      "token": "F3a_n64"
+      "token": "fig/F3a_n64.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F3a_n128.pdf",
-      "token": "F3a_n128"
+      "token": "fig/F3a_n128.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F3a_n256.pdf",
-      "token": "F3a_n256"
+      "token": "fig/F3a_n256.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F3b_n32.pdf",
-      "token": "F3b_n32"
+      "token": "fig/F3b_n32.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F3b_n64.pdf",
-      "token": "F3b_n64"
+      "token": "fig/F3b_n64.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F3b_n128.pdf",
-      "token": "F3b_n128"
+      "token": "fig/F3b_n128.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F3b_n256.pdf",
-      "token": "F3b_n256"
+      "token": "fig/F3b_n256.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F4a_PLA2_n128.pdf",
-      "token": "F4a_PLA2_n128"
-    },
-    {
-      "exists": true,
-      "resolved_path": "paper/fig/F4b_step_entropy_n128.pdf",
-      "token": "F4b_step_entropy_n128"
-    },
-    {
-      "exists": true,
-      "resolved_path": "paper/fig/F4c_geo_r2_n128.pdf",
-      "token": "F4c_geo_r2_n128"
-    },
-    {
-      "exists": true,
-      "resolved_path": "paper/fig/F4d_diff_kl_n128.pdf",
-      "token": "F4d_diff_kl_n128"
+      "token": "fig/F4a_PLA2_n128.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F4a_PLA2_n256.pdf",
-      "token": "F4a_PLA2_n256"
+      "token": "fig/F4a_PLA2_n256.pdf"
+    },
+    {
+      "exists": true,
+      "resolved_path": "paper/fig/F4b_step_entropy_n128.pdf",
+      "token": "fig/F4b_step_entropy_n128.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F4b_step_entropy_n256.pdf",
-      "token": "F4b_step_entropy_n256"
+      "token": "fig/F4b_step_entropy_n256.pdf"
+    },
+    {
+      "exists": true,
+      "resolved_path": "paper/fig/F4c_geo_r2_n128.pdf",
+      "token": "fig/F4c_geo_r2_n128.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F4c_geo_r2_n256.pdf",
-      "token": "F4c_geo_r2_n256"
+      "token": "fig/F4c_geo_r2_n256.pdf"
+    },
+    {
+      "exists": true,
+      "resolved_path": "paper/fig/F4d_diff_kl_n128.pdf",
+      "token": "fig/F4d_diff_kl_n128.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F4d_diff_kl_n256.pdf",
-      "token": "F4d_diff_kl_n256"
+      "token": "fig/F4d_diff_kl_n256.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F5_regime_scatter_n128.pdf",
-      "token": "F5_regime_scatter_n128"
+      "token": "fig/F5_regime_scatter_n128.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F5_regime_scatter_n256.pdf",
-      "token": "F5_regime_scatter_n256"
+      "token": "fig/F5_regime_scatter_n256.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F6_LOO_heatmap.pdf",
-      "token": "F6_LOO_heatmap"
+      "token": "fig/F6_LOO_heatmap.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F7_tau_distribution.pdf",
-      "token": "F7_tau_distribution"
+      "token": "fig/F7_tau_distribution.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F8_sigma_ratio_distribution.pdf",
-      "token": "F8_sigma_ratio_distribution"
+      "token": "fig/F8_sigma_ratio_distribution.pdf"
     },
     {
       "exists": true,
       "resolved_path": "paper/fig/F8_REV_frequency_heatmap.pdf",
-      "token": "F8_REV_frequency_heatmap"
+      "token": "fig/F8_REV_frequency_heatmap.pdf"
     }
   ],
   "missing_assets": [],

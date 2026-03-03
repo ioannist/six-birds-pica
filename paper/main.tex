@@ -6,7 +6,6 @@
 \usepackage{booktabs}
 \usepackage{longtable}
 \usepackage{hyperref}
-\usepackage{cleveref}
 \usepackage{tabularx}
 \usepackage{pdflscape}
 \usepackage{array}
@@ -122,7 +121,7 @@ An overview of these objects and their relationships is shown in Fig.~\ref{fig:F
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=0.92\linewidth]{\detokenize{F1_pipeline}}
+\includegraphics[width=0.92\linewidth]{fig/F1_pipeline.pdf}
 \caption{Pipeline overview from micro substrate to audited macro dynamics, showing the canonical objects $\Z$, $f:\Z\to\X$, $\tau$, $\Phat$, $\Etauf$, and PICA enable matrix $\Epica$.}
 \label{fig:F1_pipeline}
 \end{figure}
@@ -154,7 +153,7 @@ The 6$\times$6 interaction grid and key enable patterns are shown in Fig.~\ref{f
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=0.92\linewidth]{\detokenize{F2_PICA_grid}}
+\includegraphics[width=0.92\linewidth]{fig/F2_PICA_grid.pdf}
 \caption{PICA 6$\times$6 grid with class encoding aligned to Table~\ref{tab:T1_PICA_cells} statuses (Action/Implicit/Trivial/Undefined), plus EXP-112 inset enable matrices for baseline, full\_action, full\_all, and gen6\_core\_A12\_A25.}
 \label{fig:F2_PICA_grid}
 \end{figure}
@@ -513,18 +512,18 @@ In contrast, activating the full Action set (Full-Action / Full-All) produces a 
 \centering
 \textbf{Structure: $\mathrm{frob}(\Phat)$ vs. $k$.}\par\medskip
 \begin{tabular}{@{}cc@{}}
-  \includegraphics[width=0.49\linewidth]{\detokenize{F3a_n32}} &
-  \includegraphics[width=0.49\linewidth]{\detokenize{F3a_n64}}\\[0.3em]
-  \includegraphics[width=0.49\linewidth]{\detokenize{F3a_n128}} &
-  \includegraphics[width=0.49\linewidth]{\detokenize{F3a_n256}}\\
+  \includegraphics[width=0.49\linewidth]{fig/F3a_n32.pdf} &
+  \includegraphics[width=0.49\linewidth]{fig/F3a_n64.pdf}\\[0.3em]
+  \includegraphics[width=0.49\linewidth]{fig/F3a_n128.pdf} &
+  \includegraphics[width=0.49\linewidth]{fig/F3a_n256.pdf}\\
 \end{tabular}
 \par\medskip
 \textbf{Arrow-of-time: $\log_{10}(1+\Sigma_{10}(\pi(k)))$ vs. $k$.}\par\medskip
 \begin{tabular}{@{}cc@{}}
-  \includegraphics[width=0.49\linewidth]{\detokenize{F3b_n32}} &
-  \includegraphics[width=0.49\linewidth]{\detokenize{F3b_n64}}\\[0.3em]
-  \includegraphics[width=0.49\linewidth]{\detokenize{F3b_n128}} &
-  \includegraphics[width=0.49\linewidth]{\detokenize{F3b_n256}}\\
+  \includegraphics[width=0.49\linewidth]{fig/F3b_n32.pdf} &
+  \includegraphics[width=0.49\linewidth]{fig/F3b_n64.pdf}\\[0.3em]
+  \includegraphics[width=0.49\linewidth]{fig/F3b_n128.pdf} &
+  \includegraphics[width=0.49\linewidth]{fig/F3b_n256.pdf}\\
 \end{tabular}
 \caption{F3: Multiscale scan curves for structure and time-asymmetry across $n\in\{32,64,128,256\}$. Curves report seed medians with interquartile ranges; only scan rungs with at least 5 seeds are plotted. Conditions shown: Null (empty), Baseline (baseline), Full-Action (full\_action), and Full-All (full\_all). The x-axis uses resolution rung $k$ defined as the nearest power-of-two to effective $k_{\mathrm{eff}}=|\X|$. The arrow-of-time panels plot $\log_{10}(1+\Sigma_{10}(\pi(k)))$.}
 \label{fig:F3_multiscale}
@@ -591,14 +590,14 @@ At finer resolutions (large $k$), this relationship changes: geometrizability ($
 \centering
 \begin{tabular}{@{}cc@{}}
   \textbf{$n=128$} & \textbf{$n=256$}\\[0.2em]
-  \includegraphics[width=0.49\linewidth]{\detokenize{F4a_PLA2_n128}} &
-  \includegraphics[width=0.49\linewidth]{\detokenize{F4a_PLA2_n256}}\\[0.3em]
-  \includegraphics[width=0.49\linewidth]{\detokenize{F4b_step_entropy_n128}} &
-  \includegraphics[width=0.49\linewidth]{\detokenize{F4b_step_entropy_n256}}\\[0.3em]
-  \includegraphics[width=0.49\linewidth]{\detokenize{F4c_geo_r2_n128}} &
-  \includegraphics[width=0.49\linewidth]{\detokenize{F4c_geo_r2_n256}}\\[0.3em]
-  \includegraphics[width=0.49\linewidth]{\detokenize{F4d_diff_kl_n128}} &
-  \includegraphics[width=0.49\linewidth]{\detokenize{F4d_diff_kl_n256}}\\
+  \includegraphics[width=0.49\linewidth]{fig/F4a_PLA2_n128.pdf} &
+  \includegraphics[width=0.49\linewidth]{fig/F4a_PLA2_n256.pdf}\\[0.3em]
+  \includegraphics[width=0.49\linewidth]{fig/F4b_step_entropy_n128.pdf} &
+  \includegraphics[width=0.49\linewidth]{fig/F4b_step_entropy_n256.pdf}\\[0.3em]
+  \includegraphics[width=0.49\linewidth]{fig/F4c_geo_r2_n128.pdf} &
+  \includegraphics[width=0.49\linewidth]{fig/F4c_geo_r2_n256.pdf}\\[0.3em]
+  \includegraphics[width=0.49\linewidth]{fig/F4d_diff_kl_n128.pdf} &
+  \includegraphics[width=0.49\linewidth]{fig/F4d_diff_kl_n256.pdf}\\
 \end{tabular}
 \caption{F4: Lagrangian probes vs. resolution for $n=128$ (left) and $n=256$ (right). Rows show: (a) PLA2 gap, (b) step entropy, (c) geometrizability $R^2_{\mathrm{geo}}$, (d) diffusion misfit $\mathrm{KL}^{\star}_{\mathrm{diff}}$. Curves show medians with interquartile ranges; min-support filter (5 seeds) applied. The x-axis uses resolution rung $k$ defined as the nearest power-of-two to effective $k_{\mathrm{eff}}=|\X|$.}
 \label{fig:F4_lagrange_n128}
@@ -612,11 +611,11 @@ The full ablation suite occupies a broad region rather than collapsing to a one-
 \centering
 \begin{minipage}[t]{0.49\linewidth}
 \centering
-\includegraphics[width=0.98\linewidth]{\detokenize{F5_regime_scatter_n128}}
+\includegraphics[width=0.98\linewidth]{fig/F5_regime_scatter_n128.pdf}
 \end{minipage}\hfill
 \begin{minipage}[t]{0.49\linewidth}
 \centering
-\includegraphics[width=0.98\linewidth]{\detokenize{F5_regime_scatter_n256}}
+\includegraphics[width=0.98\linewidth]{fig/F5_regime_scatter_n256.pdf}
 \end{minipage}
 \caption{F5: Regime separation using run-level core-rung medians ($k\ge 4$), with $x=\widetilde{R^2_{\mathrm{geo}}}$ and $y=\log_{10}(1+\widetilde{\Sigma}_{10}(\pi))$. Left: $n=128$ full ablation suite. Right: $n=256$ manifest-defined scaling suite combining controls from EXP-F1/EXP-107 with EXP-112 selective configurations; this right panel therefore has fewer configurations and partial seeds in the EXP-112 selective subset. REV runs are excluded in both panels.}
 \label{fig:F5_regime_scatter_n128}
@@ -629,7 +628,7 @@ The resulting sensitivity structure is sparse: a small subset of cells produce t
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=0.90\linewidth]{\detokenize{F6_LOO_heatmap}}
+\includegraphics[width=0.90\linewidth]{fig/F6_LOO_heatmap.pdf}
 \caption{F6: Leave-one-out ablation sensitivity around Full-Action with two panels. Panel (a) shows the pooled LOO heatmap using the full 22-cell suite over $n\in\{32,64,128\}$ (stratified ES\_MAD pooled by median across sizes). Panel (b) shows the targeted n=256 subset only (available LOO configs), using the same effect-size scale. Columns correspond to removed PICA cells (actor$\leftarrow$informant), and rows correspond to headline metrics (core-rung medians over $k\ge 4$).}
 \label{fig:F6_loo_heatmap}
 \end{figure}
@@ -650,17 +649,17 @@ Figure~\ref{fig:F7_tau_distribution} and Figure~\ref{fig:F8_sigma_ratio_distribu
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=0.92\linewidth]{\detokenize{F7_tau_distribution}}
+\includegraphics[width=0.92\linewidth]{fig/F7_tau_distribution.pdf}
 \caption{F7: Timescale-policy outcome distributions across $n\in\{32,64,128,256\}$ for key conditions (empty, baseline, full\_action, full\_all). The plotted quantity is $\log_{10}(\tau)$, and per-condition annotations report active-$\tau$ availability counts.}
 \label{fig:F7_tau_distribution}
 \end{figure}
 
 \begin{figure}[htbp]
 \centering
-\includegraphics[width=0.95\linewidth]{\detokenize{F8_sigma_ratio_distribution}}
+\includegraphics[width=0.95\linewidth]{fig/F8_sigma_ratio_distribution.pdf}
 
 \medskip
-\includegraphics[width=0.65\linewidth]{\detokenize{F8_REV_frequency_heatmap}}
+\includegraphics[width=0.65\linewidth]{fig/F8_REV_frequency_heatmap.pdf}
 \caption{F8: Robustness diagnostics across $n\in\{32,64,128,256\}$. Top: EP-retention proxy distribution using $\log_{10}(1+\sigma_{\mathrm{ratio}})$ for key conditions, with explicit defined-count annotations. Bottom: REV frequency heatmap (REV rate) by configuration and size.}
 \label{fig:F8_sigma_ratio_distribution}
 \end{figure}
