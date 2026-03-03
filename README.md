@@ -19,6 +19,12 @@ This project studies emergence from a minimal stochastic substrate using manifes
 - **Regenerated paper assets** (F1--F8, T1--T6) and single-file manuscript source (`paper/main.tex`, no section/table includes).
 - **Submission micro-assets + QA** (`paper/submission/*`, lint/flatten reports, artifact manifests).
 
+## Compute requirements
+
+On a 96-thread machine, reproducing the full campaign takes approximately:
+- **~1 day** for the \(n\in\{32,64,128\}\) exhaustive suite.
+- **~4 days** for the \(n=256\) scaling suite.
+
 ## Scope and limitations
 
 - The \(n\le 128\) portion is exhaustive (69 configs \(\times\) 3 sizes \(\times\) 10 seeds).
