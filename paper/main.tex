@@ -99,23 +99,28 @@ A timescale parameter $\tau\in\mathbb{N}$ defines the $\tau$-step kernel $P^\tau
 A \emph{lens} (coarse-graining) is a surjective map $f:\Z\to\X$ onto a finite macro state space $\X$ with $k:=|\X|$.
 We write the fiber over $x\in\X$ as $f^{-1}(x)=\{z\in\Z: f(z)=x\}$.
 
-We use two canonical linear maps between distributions on $\Z$ and $\X$:
-\begin{align}
-(U_f \rho)(x) &:= \sum_{z\in f^{-1}(x)} \rho(z),
-\\
-(Q_f \mu)(z) &:= \frac{\mu(f(z))}{|f^{-1}(f(z))|},
-\end{align}
-where $\rho$ is a distribution on $\Z$ and $\mu$ is a distribution on $\X$.
-Thus $U_f$ is pushforward (aggregation), and $Q_f$ is the uniform lift (uniform mass within each fiber).
-
-The induced macro kernel is
+We use two canonical linear maps between distributions on $\Z$ and $\X$.
+The coarse-graining operator $Q_f$ pushes a micro distribution $\rho$ on $\Z$ forward to $\X$:
 \begin{equation}
-\Phat \;=\; P^{\X}_{\tau,f} \;:=\; U_f\, P^\tau\, Q_f,
+(Q_f \rho)(x) \;:=\; \sum_{z\in f^{-1}(x)} \rho(z).
+\label{eq:qf}
+\end{equation}
+Conversely, $U_f$ lifts a macro distribution $\mu$ on $\X$ back to $\Z$ via a fixed choice of prototypes $z_x^\star\in f^{-1}(x)$:
+\begin{equation}
+(U_f \mu)(z) \;:=\; \sum_{x\in\X} \mu(x)\,\mathbf{1}\{z=z_x^\star\}.
+\label{eq:uf}
+\end{equation}
+
+The induced macro kernel is the macro-level operator obtained by lift $\rightarrow$ evolve $\rightarrow$ coarse-grain:
+\begin{equation}
+\mu\,\Phat \;:=\; Q_f\big((U_f\mu)\,P^\tau\big),
+\qquad
+\Phat \;=\; P^{\X}_{\tau,f}.
 \label{eq:macro-kernel}
 \end{equation}
-and the associated empirical endomap (a Foundations object) is the action of $\Phat$ on macro distributions:
+The associated empirical endomap $\Etauf$ is a Foundations object acting on micro distributions:
 \begin{equation}
-\Etauf(\mu) \;:=\; \mu\,\Phat \;=\; U_f\big((Q_f\mu)\,P^\tau\big).
+\Etauf(\rho) \;:=\; U_f\big(Q_f(\rho\,P^\tau)\big).
 \label{eq:endomap}
 \end{equation}
 An overview of these objects and their relationships is shown in Fig.~\ref{fig:F1_pipeline}.
@@ -753,7 +758,7 @@ At the same time, the current LOO family probes only cells that can be removed w
 Thus the sensitivity pattern should be interpreted as \emph{conditional on the present pipeline} rather than a universal ranking of cell importance.
 
 \subsection{Coarse-graining pitfalls and ``no smuggling''}
-Because our conclusions are based on induced macro kernels $\Phat = U_f P^\tau Q_f$, they inherit the well-known ambiguity of coarse-graining: different lenses $f$ can yield different macrodynamics, and aggregation can conceal dissipation or introduce apparent irreversibility artifacts \cite{Esposito2012CoarseGraining,KawaguchiNakayama2013}.
+Because our conclusions are based on induced macro kernels $\Phat$ obtained by lifting, evolving, and then coarse-graining, they inherit the well-known ambiguity of coarse-graining: different lenses $f$ can yield different macrodynamics, and aggregation can conceal dissipation or introduce apparent irreversibility artifacts \cite{Esposito2012CoarseGraining,KawaguchiNakayama2013}.
 We therefore treat the audits as \emph{detectors} (operational tests) rather than direct measurements of physical quantities.
 Three examples illustrate the general point.
 
@@ -768,7 +773,7 @@ The following limitations are explicit constraints on what the present experimen
 \paragraph{Limitations and confounds (A6-consistent).}
 \begin{itemize}
   \item \textbf{Finite-size scope and selective scaling.} We evaluate only $n\in\{32,64,128,256\}$, and the $n=256$ data are a selected scaling suite rather than the full 69-configuration ablation set. Asymptotic scaling trends are therefore not established, and any size-dependent statements should be interpreted as finite-size evidence within a manifest-defined experimental design.
-  \item \textbf{Lens dependence.} The multiscale ladder uses a specific spectral sign-pattern partition construction; alternative lens families or alternative lifts $Q_f$ could shift (or erase) observed regimes. This is a structural coarse-graining confound.
+  \item \textbf{Lens dependence.} The multiscale ladder uses a specific spectral sign-pattern partition construction; alternative lens families or alternative prototype lifts $U_f$ could shift (or erase) observed regimes. This is a structural coarse-graining confound.
   \item \textbf{Adaptive timescale coupling.} The timescale $\tau$ is not held fixed across conditions. In particular, direct $\tau$-matched comparisons between Baseline and Full-Action are not broadly available in the current dataset (see robustness checklist), which limits causal attribution of differences solely to closure cells.
   \item \textbf{Macro thermodynamics is not micro thermodynamics.} $\Sigma_{10}(\pi)$ and related cycle diagnostics are macro-level proxies; they do not, by themselves, quantify micro-level entropy production. Hidden dissipation under coarse-graining is a known pitfall \cite{Esposito2012CoarseGraining}.
   \item \textbf{Numerical regularization.} Several audits use numerical floors/caps (e.g., $\varepsilon$ in $-\log$ action; caps for near-zero reverse transitions). These stabilize computation but can bias extreme-tail behavior.
@@ -779,7 +784,7 @@ The following limitations are explicit constraints on what the present experimen
 \paragraph{What would falsify our claim framing (A9.1-style).}
 \begin{itemize}
   \item \textbf{C1 falsifier:} If additional seeds or reruns remove the Full vs Baseline separation in headline time-asymmetry and structure (Table~\ref{tab:T3_headline_metrics}) once $\tau$ is controlled or matched, then the ``full PICA reshapes macro behavior'' interpretation would weaken substantially.
-  \item \textbf{C2 falsifier:} If the geometry/diffusion improvements at fine resolution (Fig.~\ref{fig:F4_lagrange_n128}) disappear under alternative coarse-graining procedures or alternative lifts $Q_f$, then the geometry-like regime would be better viewed as a property of the chosen lens rather than the closure dynamics.
+  \item \textbf{C2 falsifier:} If the geometry/diffusion improvements at fine resolution (Fig.~\ref{fig:F4_lagrange_n128}) disappear under alternative coarse-graining procedures or alternative prototype lifts $U_f$, then the geometry-like regime would be better viewed as a property of the chosen lens rather than the closure dynamics.
   \item \textbf{C3 falsifier:} If the regime scatter (Fig.~\ref{fig:F5_regime_scatter_n128}) collapses under minor audit-parameter changes (e.g., path horizon $T$ for $\Sigma_{10}(\pi)$, embedding dimension $m$), then the ``multiple regimes'' story would need to be revised.
   \item \textbf{C4 falsifier:} If LOO sensitivity patterns (Fig.~\ref{fig:F6_loo_heatmap}) are unstable across seeds/sizes or disappear when the two untested spectral cells are included in ablations, then the ``generator'' interpretation would be unsupported.
   \item \textbf{C5--C6 falsifier:} If the anchor-rung correlations and the competition-family regression (Table~\ref{tab:T5A_correlations}, Table~\ref{tab:T5B_regression}) fail to replicate under strict REV handling and multiple-testing controls, then the probe-coupling and competition effect claims should be treated as exploratory.
@@ -790,7 +795,7 @@ Several follow-on experiments would strengthen both the physics-like narrative a
 
 \begin{itemize}
   \item \textbf{Controlled-$\tau$ reruns.} Run matched-$\tau$ sweeps (or fixed-$\tau$ protocols) for Baseline vs Full conditions to separate closure effects from timescale effects.
-  \item \textbf{Alternative lenses and lifts.} Repeat the multiscale scan with alternative coarse-graining constructions (e.g., different spectral clustering variants) and non-uniform lifts $Q_f$ (e.g., conditional stationary lifts) to test lens robustness.
+  \item \textbf{Alternative lenses and lifts.} Repeat the multiscale scan with alternative coarse-graining constructions (e.g., different spectral clustering variants) and alternative prototype lifts $U_f$ (or other lift rules) to test lens robustness.
   \item \textbf{Scaling.} Extend to larger $n$ and larger $k$ ladders, and test whether the regime separation sharpens, merges, or transitions.
   \item \textbf{Ablation completion.} Add ablations that remove the two currently untested spectral core cells (or replace them with alternative partition primitives) to complete the generator picture.
   \item \textbf{Audit stress tests.} Vary path horizon $T$, embedding dimension $m$, and regularization floors to quantify audit stability and reduce confounds.
